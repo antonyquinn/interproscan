@@ -32,7 +32,7 @@ import java.util.Set;
 /**
  * HMMER match.
  *
- * @author Antony Quinn
+ * @author Antony Quinn <aquinn@ebi.ac.uk>
  * @version $Id$
  * @since 1.0
  */
